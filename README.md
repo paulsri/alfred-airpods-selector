@@ -37,6 +37,6 @@ In Alfred type the following:
 > To Disable AirPods:
 > `airpods off`
 
-*Note: You can type anythning after 'airpods' except 'off' to enable the AirPods audio source.*
+*Note: You can type anything after 'airpods' except 'off' to enable the AirPods audio source.*
 
 
